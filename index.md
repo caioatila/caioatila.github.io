@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/caioatila/caioatila.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a researcher at the **Satellites and Meteorological Sensors Division** at [INPE](https://www.gov.br/inpe/pt-br) (Brazil's National Institute for Space Research). I work with the **G-STAR** (Group for Solar and Terrestrial Radiation Studies) and the **Nowcasting** group, focusing on cutting-edge research in atmospheric sciences and remote sensing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
 
-### Markdown
+My main research interests include:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Diffusion Models** - Exploring advanced generative models for atmospheric and meteorological applications
+- **Satellite Applications** - Utilizing satellite remote sensing for precipitation monitoring and analysis
+- **Meteorological Radar** - Developing methods for precipitation and cloud microphysics studies
+- **Deep Learning** - Applying state-of-the-art machine learning techniques to environmental data
 
-```markdown
-Syntax highlighted code block
+## Current Research Projects
 
-# Header 1
-## Header 2
-### Header 3
+### Precipitation and Cloud Microphysics
+Working with satellite and meteorological radar data to advance our understanding of precipitation processes and cloud microphysics aspects. This research contributes to improved weather forecasting and climate modeling.
 
-- Bulleted
-- List
+### Wildfire Scar Detection
+In collaboration with the **Laboratory of Environmental Satellite Applications (LASA)** at the Federal University of Rio de Janeiro, I work on estimating wildfire scars through multispectral imagery and deep learning techniques. This research is crucial for environmental monitoring and fire management in Brazil.
 
-1. Numbered
-2. List
+## Publications & Profile
 
-**Bold** and _Italic_ and `Code` text
+- [Google Scholar Profile](https://scholar.google.com/citations?user=sgVZu9UAAAAJ&hl=pt-BR&oi=ao)
+- [ResearchGate Profile](https://www.researchgate.net/profile/Caio-Sena)
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caioatila/caioatila.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to reach out to discuss research collaborations or opportunities in satellite remote sensing, meteorological applications, and deep learning.
