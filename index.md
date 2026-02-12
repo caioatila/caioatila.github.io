@@ -22,7 +22,7 @@ In collaboration with the **Laboratory of Environmental Satellite Applications (
 ## Publications & Profile
 
 - [Google Scholar Profile](https://scholar.google.com/citations?user=sgVZu9UAAAAJ&hl=pt-BR&oi=ao)
-- [ResearchGate Profile](https://www.researchgate.net/profile/Caio-Sena)
+- [ResearchGate Profile](https://www.researchgate.net/profile/Caio-Sena/research)
 - [Lattes Profile](http://lattes.cnpq.br/3224723755240109)
 - [Orcid Profile](https://orcid.org/0000-0002-9725-364X)
 
