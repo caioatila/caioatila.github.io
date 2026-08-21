@@ -34,9 +34,16 @@ In collaboration with the **Laboratory of Environmental Satellite Applications (
 - [ResearchGate Profile](https://www.researchgate.net/profile/Caio-Sena/research)
 - [Lattes Profile](http://lattes.cnpq.br/3224723755240109)
 - [Orcid Profile](https://orcid.org/0000-0002-9725-364X)
+- [GitHub Profile](https://github.com/caioatila)
 {: .publication-links}
 
 ## Contact
 {: #contact}
 
 Feel free to reach out to discuss research collaborations or opportunities in satellite remote sensing, meteorological applications, and deep learning.
+
+<p class="contact-links">
+  <span id="contact-email" class="contact-email" data-user="caio.sena" data-domain="inpe.br">
+    <noscript>Enable JavaScript to reveal the email address, or reach out via one of the profiles above.</noscript>
+  </span>
+</p>

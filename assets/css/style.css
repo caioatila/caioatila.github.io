@@ -220,6 +220,34 @@ body {
   color: #fff;
 }
 
+/* ---------- Contact ---------- */
+
+.contact-links {
+  margin: 0 0 1.5rem;
+}
+
+.contact-email a {
+  display: inline-block;
+  padding: 8px 18px;
+  border: 1.5px solid var(--gold);
+  border-radius: 999px;
+  color: var(--navy-700);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.contact-email a:hover {
+  background: var(--gold);
+  color: #fff;
+}
+
+.contact-email noscript {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {

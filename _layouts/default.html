@@ -20,11 +20,11 @@
         <span class="site-role">{{ site.description }}</span>
       </div>
       <nav class="site-nav">
-        <a href="#about">Sobre</a>
-        <a href="#research">Pesquisa</a>
-        <a href="#projects">Projetos</a>
-        <a href="#publications">Publicações</a>
-        <a href="#contact">Contato</a>
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#projects">Projects</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
       </nav>
     </div>
   </header>
@@ -36,5 +36,7 @@
   <footer class="site-footer">
     <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
   </footer>
+
+  <script src="{{ '/assets/js/contact.js' | relative_url }}" defer></script>
 </body>
 </html>
